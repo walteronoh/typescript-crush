@@ -1,0 +1,14 @@
+Typescript is a superset of javascript i.e it inherits all the functionalities of a javascript.
+Compiles to plain javascript.
+
+What it offers:
+ - Static type checking.
+ - class based objects.
+ - Modularity.
+ - ES6 features.
+
+Typescript Compiler(tsc) compiles .ts files to .js.
+Installation: npm install -g typescript
+
+Compiling .ts file in watchMode
+  tsc <filename> -w
